@@ -1,4 +1,4 @@
-# lottery-smart-contract-ethereum-solidity-ibrahimkecici
+# Lottery Smart Contract
 Lottery smart contract with solidity on based ethereum.
 
 Install:
