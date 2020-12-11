@@ -3,7 +3,7 @@ Lottery smart contract with solidity on based ethereum.
 
 Install:
 
-```git clone https://github.com/ibrahimkecici/lottery-smart-contract-ethereum-solidity-ibrahimkecici```
+```git clone https://github.com/ibrahimkecici/lottery-smart-contract-ethereum-solidity```
 
 Run:
 
