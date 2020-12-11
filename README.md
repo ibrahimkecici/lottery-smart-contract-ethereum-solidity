@@ -5,7 +5,6 @@ Install:
 
 ```
 git clone https://github.com/ibrahimkecici/lottery-smart-contract-ethereum-solidity
-and
 npm install
 ```
 
